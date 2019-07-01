@@ -15,6 +15,7 @@ This repository recollects some solved Reinforcement Learning Exercises that I'v
 
 **Frameworks**
 * [Can collector game](can%20collector/can_collector_framework.py)
+
 ![Can collector demo](can%20collector/can_collector_demo.gif)
 
 
