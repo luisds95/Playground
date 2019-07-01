@@ -3,3 +3,8 @@ This repository  presents a curated collection of notebooks and code files I hav
 
 ## Articles
 * [Stationary and non-stationary multi-armed bandit problem](https://towardsdatascience.com/reinforcement-learning-basics-stationary-and-non-stationary-multi-armed-bandit-problem-cfe06d33b815)
+
+## Frameworks
+* [Can collector game](can%20collector/can_collector_framework.py)
+![Can collector demo](Reinforcement%20Learning/can%20collector/can_collector_demo.gif)
+

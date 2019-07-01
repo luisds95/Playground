@@ -14,7 +14,9 @@ This repository recollects some solved Reinforcement Learning Exercises that I'v
 * [Stationary and non-stationary multi-armed bandit problem](multi-armed%20bandit/Multi-armed%20bandit.ipynb) [2]
 
 **Frameworks**
-* [Can collector game](can%20collector/can_collector_framework.py) [2]
+* [Can collector game](can%20collector/can_collector_framework.py)
+![Can collector demo](can%20collector/can_collector_demo.gif)
+
 
 ## Sources
 1. [CS 294-112 at UC Berkeley. Deep Reinforcement Learning.](http://rail.eecs.berkeley.edu/deeprlcourse/)
