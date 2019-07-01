@@ -3,6 +3,8 @@ June 29, 2019.
 Luis Da Silva.
 luisdanield@gmail.com
 
+This is an implementation of policy iteration for finding a tabular solution.
+
 As described in Sutton's book, page 81. Jack has a car rental with two locations,
 he receives an amount d for every rented car. If there are no cars available then he
 receives nothing. He may have up to n cars in stock between both locations. m cars may
